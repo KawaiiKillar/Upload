@@ -1,0 +1,24 @@
+{
+   "background": {
+      "service_worker": "./build/background.js"
+   },
+   "content_scripts": [ {
+      "js": [ "./build/content.js" ],
+      "matches": [ "https://web.snapchat.com/*" ],
+      "run_at": "document_start"
+   } ],
+   "description": "This browser extension enhances your web.snapchat.com experience by adding several essential privacy features.",
+   "host_permissions": [ "https://web.snapchat.com/*" ],
+   "icons": {
+      "128": "logo128.png",
+      "32": "logo32.png",
+      "48": "logo48.png",
+      "96": "logo96.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvSii+9VYhEyN1mNqfFBSf2E3TyO3iQv5KR01XqNB0V7BwobLeIlhGFlswiiPilSuuB2M9dUmQE93nSdusxh39fg9RTxrtDqsKSu3EiEmFy621RzBhL3eZ4PT74flnfxXCUYuVkjhCxdSiLEo7we+BzLYSwCO/hWyX+ELfsEGiJTN9In7z1jDDkl35I8zEQaYppcggzepudeiA58s5Y03DZv4rbsGy2JNIOfDXf6mOdXq9wLTX3n2+1bq9iBAJ6UwpY3mQIJ3ugl6KBnGbiNB4f33phSkn63m/9qOm2fN0qiig/oXHZdVg32e5dRVgeVMUyXuNvtL1J0JNB1Zl9si6QIDAQAB",
+   "manifest_version": 3,
+   "name": "Better Snapchat",
+   "permissions": [ "declarativeNetRequest" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0.1"
+}
