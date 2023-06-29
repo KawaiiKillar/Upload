@@ -1,0 +1,30 @@
+Privacy Policy
+
+This Chrome extension ("Snap Perfect") respects your privacy. This Privacy Policy explains how we use your information. By using the Extension, you agree to the terms of this Privacy Policy.
+
+Information We Use
+
+The Extension uses the following types of information:
+
+Website content and resources
+Web browsing activity
+User-generated content
+The Extension does not collect, store, or share any of this data. The data is only used to provide functionality while you are actively using the Extension.
+
+Cookies and Similar Technologies
+
+We may use cookies and similar technologies to provide and support our services. You have the option to control or limit how we and our partners use these technologies through your own browser settings.
+
+Data Security
+
+While we don't store your data, we take appropriate measures to ensure the secure use of your data while you are using the Extension. These include following industry-standard practices to prevent unauthorized access to or use of your data.
+
+Changes To This Privacy Policy
+
+We may change this Privacy Policy from time to time. We will post any changes on this page and, if the changes are significant, we will provide a more prominent notice.
+
+Contact Us
+
+If you have any questions about this Privacy Policy, please contact us through the contact information provided in the Extension.
+
+Please note that this is a simplified policy and may not cover all legal requirements. You should adjust it according to your needs and consider consulting with a legal professional to ensure it meets all requirements.
